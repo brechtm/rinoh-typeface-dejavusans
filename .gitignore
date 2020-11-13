@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*~
+/build
+/dist
+/rinoh_typeface_dejavusans.egg-info
+/.venv
